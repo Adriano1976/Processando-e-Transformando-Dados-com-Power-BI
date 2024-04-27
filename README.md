@@ -1,4 +1,5 @@
-# Desafio-de-Projeto-DIO-Processando-e-Transformando-Dados-com-Power-BI
+# Desafio de Projeto DIO Processando e Transformando Dados com Power BI
+
 Este projeto foi originado pela integração da base de dados do MySQL com Power BI. O objetivo consiste em realizar uma pequena caracterização dos dados. Os valores são originados de uma base de teste.
 
 ![img-08](https://github.com/Adriano1976/Processando-e-Transformando-Dados-com-Power-BI/assets/17755195/d787785d-7a0f-4444-ba7b-229d87f2e4c6)
