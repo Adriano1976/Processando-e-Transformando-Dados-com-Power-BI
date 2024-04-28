@@ -220,3 +220,10 @@ Resumo das Transformações:
 10. Reordenação das colunas.
 11. Renomeação da coluna de índice para "ID_Calendar".
 
+<div align="center">
+<br><p align="centre"><b>Contagem de visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Processando-e-Transformando-Dados-com-Power-BI}/count.svg" /></p> 
+<br>  
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=footer"/>**** 
+</div>
