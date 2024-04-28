@@ -4,6 +4,8 @@ Este projeto foi originado pela integração da base de dados do MySQL com Power
 
 ![img-08](https://github.com/Adriano1976/Processando-e-Transformando-Dados-com-Power-BI/assets/17755195/d787785d-7a0f-4444-ba7b-229d87f2e4c6)
 
+Fonte: https://app.powerbi.com/view?r=eyJrIjoiZjNkZTYzYTEtZjExMy00ZGI2LThjYzUtYTJjYjYxZjc1ZmI1IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSection
+
 # Análise do Gráfico da Company Aju
 
 1. **Base de Dados e Caracterização:**
