@@ -1,6 +1,6 @@
 # Desafio de Projeto DIO Processando e Transformando Dados com Power BI
 
-Este projeto foi criado a partir da integração da base de dados do MySQL, usando MySQL Workbench e com Power BI local. Depois da construção da base de dados, tratamento usando Power Query no Power BI, foi feito a exportação e ativação de sua funcionamento em nuvem onde podemos ter acesso no link logo a seguir abaixo da imagem. Lá podemos fazer algumas interações e comparações de forma mais Clara e objetiva dos dados por meio de gráficos de fáceis compreensão. Portanto, o objetivo desse projeto consiste em realizar uma pequena caracterização dos dados onde os valores são originados de uma base de teste local já que não consegur fazer uma conta gratuita no Azure por não ter um cartão de crédigo para abrir essa conta.
+Este projeto foi desenvolvido integrando uma base de dados MySQL com o uso do MySQL Workbench e Power BI. Após a construção e o tratamento da base de dados via Power Query, os dados foram exportados e ativados na nuvem, acessíveis através do link abaixo da imagem. Essa plataforma permite interações e comparações claras e objetivas dos dados por meio de gráficos de fácil compreensão. O `objetivo do projeto` é caracterizar os dados, que provêm de uma base de teste local, devido à impossibilidade de criar uma conta gratuita no Azure por falta de cartão de crédito.
 
 ![img-08](https://github.com/Adriano1976/Processando-e-Transformando-Dados-com-Power-BI/assets/17755195/d787785d-7a0f-4444-ba7b-229d87f2e4c6)
 
@@ -8,33 +8,28 @@ Fonte: https://app.powerbi.com/view?r=eyJrIjoiZjNkZTYzYTEtZjExMy00ZGI2LThjYzUtYT
 
 # Análise do Gráfico da Company Aju
 
-1. **Base de Dados e Caracterização:**
-   - O gráfico representa uma caracterização da base de dados teste da **Company Aju**.
-   - A base de dados inclui informações sobre **3 departamentos**, **6 projetos**, **8 colaboradores** e **7 dependentes**.
+1. **Distribuição de Departamentos e Colaboradores**:
+   - Existem três departamentos: Administração, Headquarters e Research.
+   - O departamento de Research possui o maior número de funcionários (3), seguido pela Administração (2) e Headquarters (2).
 
-2. **Departamentos e Locais:**
-   - Existem três departamentos:
-     - **Administração**, localizado em **Bellaire**.
-     - **Headquarters**, localizado em **Houston**.
-     - **Research**, localizado em **Stafford**.
+2. **Horas Trabalhadas por Departamento**:
+   - O total de horas trabalhadas é 275.
+   - O departamento de Headquarters tem a maior quantidade de horas trabalhadas (44%), seguido por Research (29%) e Administração (27%).
 
-3. **Distribuição de Funcionários:**
-   - O departamento de **Research** tem **3 funcionários**.
-   - O departamento de **Administração** tem **2 funcionários**.
-   - O departamento de **Headquarters** tem **2 funcionário**.
+3. **Gerenciamento de Funcionários**:
+   - Cada gerente (Elizabeth, Michael, Joy e Theodore) é responsável por 7 funcionários.
 
-4. **Salários e Horas Trabalhadas:**
-   - **James** tem o **maior salário**, seguido por **Jennifer** e **Franklin**.
-   - **Ahmad** trabalhou mais horas do que **James**, **Alicia** e **Franklin** juntos.
+4. **Salário por Funcionário**:
+   - James é o funcionário com o salário mais alto, seguido por Jennifer, Franklin e Ramesh.
+   - Ahmad, Alicia e Joyce estão na faixa mais baixa de salários (45,45%).
 
-5. **Gerenciamento:**
-   - Todos os gerentes têm um total de **7 funcionários** cada.
+5. **Localização dos Colaboradores**:
+   - Os funcionários estão distribuídos em quatro locais: Bellaire, Houston, Stafford e Sugarland.
 
-6. **Observações Gerais:**
-   - A base de dados parece ser pequena e bem organizada.
-   - A distribuição de funcionários por departamento é equilibrada.
-   - Ahmad é um funcionário dedicado, mas James ainda é o mais bem pago.
+6. **Horas Trabalhadas por Funcionário**:
+   - Ahmad, Alicia, Franklin, James, Jennifer, John, Joyce e Ramesh são os funcionários cujas horas trabalhadas foram analisadas, destacando diferentes níveis de contribuição em horas.
 
+Esses insights esclarecem a distribuição de recursos humanos, a carga de trabalho, os salários e a gestão de funcionários na empresa.
 
 <hr>
 
